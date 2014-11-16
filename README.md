@@ -1,4 +1,4 @@
-#camba
+#nodejs-cucumber-sample
 
 Minimal project to show how to setup 
 [cucumber](http://cukes.info/) for nodejs environment
